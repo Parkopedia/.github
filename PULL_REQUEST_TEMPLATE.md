@@ -1,6 +1,10 @@
 # Description
 
-Please include a summary of the change, including relevant motivation and context, and detail any issue(s) fixed. Clearly and concisely describe the feature / fix added, explaining the technical solution provided and how it relates to the feature or fix added.
+Please include a summary of the change, including relevant context, and detail any issue(s) fixed. Clearly and concisely describe the feature / fix added, explaining the technical solution provided and how it relates to the feature or fix added.
+
+# Motivation
+
+Why are we doing this work? Link to relevant backlog items and/or describe the value of the change.
 
 ## Type of change
 
