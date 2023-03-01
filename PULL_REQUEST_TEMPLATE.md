@@ -15,10 +15,10 @@ Please describe the tests that you ran to verify your changes (e.g. Unit, Integr
 Were tests added to cover these changes?
 Are all of the CI checks passing?
 
-# Checklist:
+# Checklist
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
 - [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
+- [ ] New and existing tests pass with my changes
