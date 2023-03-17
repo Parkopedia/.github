@@ -11,7 +11,10 @@ Why are we doing this work? Link to relevant backlog items and/or describe the v
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Non-functional change (e.g. refactoring, performance improvements, reduction of technical debt etc)
 - [ ] Documentation
+- [ ] CI
+- [ ] Other - please specify
 
 # How Has This Been Tested?
 
