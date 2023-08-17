@@ -31,3 +31,4 @@ Are all of the CI checks passing?
 - [ ] I have made corresponding changes to the documentation
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing tests pass with my changes
+- [ ] Is the code correctly handling the setup in the China region?
